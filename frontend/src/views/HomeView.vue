@@ -1,9 +1,9 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import SerieList from '../components/SerieList.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <SerieList />
   </main>
 </template>
